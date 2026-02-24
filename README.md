@@ -61,7 +61,7 @@ I believe in **continuous learning, accuracy, and clear communication** — the 
 
 ## 📫 Connect With Me
 - **GitHub:** github.com/judeitoyah  
-- **LinkedIn:** [[add your link here](https://www.linkedin.com/in/jude-itoyah-0a7795b2/)] 
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/jude-itoyah-0a7795b2/) 
 - **Email:** terajude@gmail.com
 
 Thanks for visiting — more projects coming soon!
