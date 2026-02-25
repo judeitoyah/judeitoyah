@@ -1,7 +1,7 @@
 # Hi, I'm Jude Isememe Itoyah 👋  
 ### Data Analyst • MSc Data Analytics • Python & SQL Enthusiast
 
-I'm a London-based Data Analyst with an MSc in Data Analytics and hands-on experience using Python, SQL, BigQuery, and BI tools to turn data into clear, actionable insights.  
+I'm a London-based Data Analyst with an MSc in Data Analytics and hands-on experience using Python, SQL, BigQuery, BI, and Tableau tools to turn data into clear, actionable insights.  
 
 I’m currently strengthening my practical, real‑world analytics skills through the **Google Data Analytics Professional Certificate**, focusing on spreadsheets, SQL, Python, BigQuery, and Tableau.
 
